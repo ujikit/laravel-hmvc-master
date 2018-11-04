@@ -2,6 +2,7 @@
 
 return [
   'modules' => [
-    'Contoh',
+    'Index',
+    'Admin',
   ]
 ];
